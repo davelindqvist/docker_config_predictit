@@ -1,5 +1,4 @@
 migrations
-myproject/data.sqlite
 .vscode
 .dist
 myproject/__pycache__
